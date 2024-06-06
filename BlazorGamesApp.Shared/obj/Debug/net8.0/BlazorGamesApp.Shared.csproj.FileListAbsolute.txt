@@ -1,0 +1,12 @@
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\Blazor\BlazorGamesApp\BlazorGamesApp.Shared\bin\Debug\net8.0\BlazorGamesApp.Shared.deps.json
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\Blazor\BlazorGamesApp\BlazorGamesApp.Shared\bin\Debug\net8.0\BlazorGamesApp.Shared.dll
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\Blazor\BlazorGamesApp\BlazorGamesApp.Shared\bin\Debug\net8.0\BlazorGamesApp.Shared.pdb
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\Blazor\BlazorGamesApp\BlazorGamesApp.Shared\obj\Debug\net8.0\BlazorGamesApp.Shared.csproj.AssemblyReference.cache
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\Blazor\BlazorGamesApp\BlazorGamesApp.Shared\obj\Debug\net8.0\BlazorGamesApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\Blazor\BlazorGamesApp\BlazorGamesApp.Shared\obj\Debug\net8.0\BlazorGamesApp.Shared.AssemblyInfoInputs.cache
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\Blazor\BlazorGamesApp\BlazorGamesApp.Shared\obj\Debug\net8.0\BlazorGamesApp.Shared.AssemblyInfo.cs
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\Blazor\BlazorGamesApp\BlazorGamesApp.Shared\obj\Debug\net8.0\BlazorGamesApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\Blazor\BlazorGamesApp\BlazorGamesApp.Shared\obj\Debug\net8.0\BlazorGamesApp.Shared.dll
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\Blazor\BlazorGamesApp\BlazorGamesApp.Shared\obj\Debug\net8.0\refint\BlazorGamesApp.Shared.dll
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\Blazor\BlazorGamesApp\BlazorGamesApp.Shared\obj\Debug\net8.0\BlazorGamesApp.Shared.pdb
+C:\Users\ezefe\OneDrive\Desktop\Contenedor\Proyectos\Backend\APIs\Blazor\BlazorGamesApp\BlazorGamesApp.Shared\obj\Debug\net8.0\ref\BlazorGamesApp.Shared.dll

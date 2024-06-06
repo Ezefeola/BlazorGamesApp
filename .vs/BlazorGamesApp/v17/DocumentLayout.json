@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\Blazor\\BlazorGamesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{401B1359-692E-42EE-94A6-D5E90C95A9D7}|BlazorGamesApp\\BlazorGamesApp.Client\\BlazorGamesApp.Client.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\backend\\apis\\blazor\\blazorgamesapp\\blazorgamesapp\\blazorgamesapp.client\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{401B1359-692E-42EE-94A6-D5E90C95A9D7}|BlazorGamesApp\\BlazorGamesApp.Client\\BlazorGamesApp.Client.csproj|solutionrelative:blazorgamesapp\\blazorgamesapp.client\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF57C694-BA28-47F8-A0F8-CC6B4AFED48E}|BlazorGamesApp\\BlazorGamesApp\\BlazorGamesApp.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\backend\\apis\\blazor\\blazorgamesapp\\blazorgamesapp\\blazorgamesapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF57C694-BA28-47F8-A0F8-CC6B4AFED48E}|BlazorGamesApp\\BlazorGamesApp\\BlazorGamesApp.csproj|solutionrelative:blazorgamesapp\\blazorgamesapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF57C694-BA28-47F8-A0F8-CC6B4AFED48E}|BlazorGamesApp\\BlazorGamesApp\\BlazorGamesApp.csproj|c:\\users\\ezefe\\onedrive\\desktop\\contenedor\\proyectos\\backend\\apis\\blazor\\blazorgamesapp\\blazorgamesapp\\blazorgamesapp\\components\\shared\\creategamebutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF57C694-BA28-47F8-A0F8-CC6B4AFED48E}|BlazorGamesApp\\BlazorGamesApp\\BlazorGamesApp.csproj|solutionrelative:blazorgamesapp\\blazorgamesapp\\components\\shared\\creategamebutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditGame.razor",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\Blazor\\BlazorGamesApp\\BlazorGamesApp\\BlazorGamesApp.Client\\Pages\\EditGame.razor",
+              "RelativeDocumentMoniker": "BlazorGamesApp\\BlazorGamesApp.Client\\Pages\\EditGame.razor",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\Blazor\\BlazorGamesApp\\BlazorGamesApp\\BlazorGamesApp.Client\\Pages\\EditGame.razor",
+              "RelativeToolTip": "BlazorGamesApp\\BlazorGamesApp.Client\\Pages\\EditGame.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T01:27:13.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\Blazor\\BlazorGamesApp\\BlazorGamesApp\\BlazorGamesApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorGamesApp\\BlazorGamesApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\Blazor\\BlazorGamesApp\\BlazorGamesApp\\BlazorGamesApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorGamesApp\\BlazorGamesApp\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T01:33:23.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateGameButton.razor",
+              "DocumentMoniker": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\Blazor\\BlazorGamesApp\\BlazorGamesApp\\BlazorGamesApp\\Components\\Shared\\CreateGameButton.razor",
+              "RelativeDocumentMoniker": "BlazorGamesApp\\BlazorGamesApp\\Components\\Shared\\CreateGameButton.razor",
+              "ToolTip": "C:\\Users\\ezefe\\OneDrive\\Desktop\\Contenedor\\Proyectos\\Backend\\APIs\\Blazor\\BlazorGamesApp\\BlazorGamesApp\\BlazorGamesApp\\Components\\Shared\\CreateGameButton.razor",
+              "RelativeToolTip": "BlazorGamesApp\\BlazorGamesApp\\Components\\Shared\\CreateGameButton.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T01:30:14.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
